@@ -20,7 +20,7 @@ export default function CTA() {
         </p>
 
         <a
-          href="https://wa.me/5500000000000"
+          href="https://wa.me/5582999534870"
           target="_blank"
           rel="noopener noreferrer"
           className="inline-flex items-center gap-3 px-10 py-5 text-lg font-semibold bg-blue-500 hover:bg-blue-600 text-white rounded-xl transition-all glow-blue hover:scale-[1.02] active:scale-[0.98]"

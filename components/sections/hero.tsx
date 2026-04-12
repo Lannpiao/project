@@ -36,7 +36,7 @@ export default function Hero() {
 
           <div className="flex flex-col sm:flex-row items-center justify-center gap-4">
             <a
-              href="https://wa.me/5500000000000"
+              href="https://wa.me/5582999534870"
               target="_blank"
               rel="noopener noreferrer"
               className="w-full sm:w-auto inline-flex items-center justify-center gap-2 px-8 py-4 text-base font-semibold bg-blue-500 hover:bg-blue-600 text-white rounded-xl transition-all glow-blue hover:scale-[1.02] active:scale-[0.98]"
