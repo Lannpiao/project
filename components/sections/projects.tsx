@@ -2,36 +2,36 @@ import { ExternalLink } from "lucide-react";
 
 const projects = [
   {
-    title: "Bella Hair Studio",
-    category: "Salão de Beleza",
+    title: "EB Fashion",
+    category: "E-commerce",
     description:
-      "Site institucional com agendamento online e galeria de serviços.",
+      "E-commerce otimizado para vendas com checkout rápido e integração com WhatsApp.",
     image:
-      "https://images.pexels.com/photos/3993449/pexels-photo-3993449.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "/portfolio/ebfashion.jpeg",
   },
   {
-    title: "BarberKing",
+    title: "GuBarber",
     category: "Barbearia",
     description:
       "Landing page com foco em conversão e design masculino premium.",
     image:
-      "https://images.pexels.com/photos/1813272/pexels-photo-1813272.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "/portfolio/gubarber.jpeg",
   },
   {
-    title: "Café Origem",
+    title: "Grãos da Serra",
     category: "Cafeteria",
     description:
       "Site com cardápio digital, localização e identidade visual acolhedora.",
     image:
-      "https://images.pexels.com/photos/1995010/pexels-photo-1995010.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "/portfolio/graodaserra.jpeg",
   },
   {
-    title: "Prime Imóveis",
-    category: "Imobiliária",
+    title: "AllMove",
+    category: "Academia",
     description:
-      "Plataforma de imóveis com filtros avançados e integração com WhatsApp.",
+      "Site para academia com planos, agendamento de aulas e integração com WhatsApp.",
     image:
-      "https://images.pexels.com/photos/323780/pexels-photo-323780.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "/portfolio/allmove.jpeg",
   },
 ];
 export default function Projects() {
